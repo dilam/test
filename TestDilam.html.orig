@@ -10,13 +10,20 @@
       text-decoration: none;
     }
   //-->
+<<<<<<< HEAD
     </style>
 </head>
 <body>
 
 <div>Hello World</div>
 Di Lam<br\>
+</body>
+=======
+  </style>
+</head>
+<body>
 
 <div>Hello Di Lam Go bugger</div>
 
 </body>
+>>>>>>> bc4027de81bcab3923cf4bf1781dcc087966c073
